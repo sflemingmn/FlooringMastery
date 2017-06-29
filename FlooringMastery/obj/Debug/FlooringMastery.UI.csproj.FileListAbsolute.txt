@@ -1,0 +1,37 @@
+c:\users\sflem\onedrive\documents\visual studio 2017\Projects\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.UI.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.UI.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.UI.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery\obj\Debug\FlooringMastery.UI.pdb
