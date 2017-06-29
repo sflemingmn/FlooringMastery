@@ -1,0 +1,35 @@
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Data.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\nunit.framework.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.exe.config
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\bin\Debug\nunit.framework.xml
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.BLL.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Data.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.UI.exe
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\nunit.framework.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.BLL.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Data.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.UI.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\nunit.framework.xml
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\obj\Debug\FlooringMastery.Tests.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Tests\bin\Debug\FlooringMastery.Tests.dll.config
