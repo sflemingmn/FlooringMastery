@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Steve,PA,6.75,Wood,100,5.15,4.75,515.00,475.00,66.83,1056.83
+2,Big Homes,OH,6.25,Tile,500,3.50,4.15,1750.00,2075.00,239.06,4064.06
+3,Ty,OH,6.25,Carpet,1000,2.25,2.10,2250.00,2100.00,271.88,4621.88
+4,Steve,PA,6.75,Carpet,10000,2.25,2.10,22500.00,21000.00,2936.25,46436.25
