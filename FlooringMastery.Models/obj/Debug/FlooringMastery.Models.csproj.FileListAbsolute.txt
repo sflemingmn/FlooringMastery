@@ -1,0 +1,20 @@
+c:\users\sflem\onedrive\documents\visual studio 2017\Projects\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+c:\users\sflem\onedrive\documents\visual studio 2017\Projects\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+c:\users\sflem\onedrive\documents\visual studio 2017\Projects\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+c:\users\sflem\onedrive\documents\visual studio 2017\Projects\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+c:\users\sflem\onedrive\documents\visual studio 2017\Projects\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojResolveAssemblyReference.cache
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll.CodeAnalysisLog.xml
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone 1\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll.lastcodeanalysissucceeded
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\sflem\OneDrive\Documents\steve-fleming-individual-dashwork\Milestone1\FlooringMastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
